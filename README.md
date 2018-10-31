@@ -18,7 +18,7 @@ This set of introductory material for Python is heavilly inspired from two wonde
 - Python4Maths by Andreas Ernst : https://gitlab.erc.monash.edu.au/andrease/Python4Maths
 - Python Lectures by Rajath Kumar : https://github.com/rajathkmp/Python-Lectures
 
-Highly recommended : [Python 3 Cheat Sheet](pythonCheatSheet.pdf) by [Laurent Pointal](https://perso.limsi.fr/pointal/python:memento)
+**Highly recommended** : [Python 3 Cheat Sheet](pythonCheatSheet.pdf) by [Laurent Pointal](https://perso.limsi.fr/pointal/python:memento). This 2-pager is a life-saver -- print and frame it!
 
 ---
 
