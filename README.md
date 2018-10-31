@@ -18,6 +18,8 @@ This set of introductory material for Python is heavilly inspired from two wonde
 - Python4Maths by Andreas Ernst : https://gitlab.erc.monash.edu.au/andrease/Python4Maths
 - Python Lectures by Rajath Kumar : https://github.com/rajathkmp/Python-Lectures
 
+Highly recommended : [Python 3 Cheat Sheet](pythonCheatSheet.pdf) by [Laurent Pointal](https://perso.limsi.fr/pointal/python:memento)
+
 ---
 
 **License Declaration** : Following the lead from the inspirations for this material, and the *spirit* of Python education and development, all modules of this work are licensed under the Creative Commons Attribution 3.0 Unported License.
