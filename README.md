@@ -22,6 +22,4 @@ This set of introductory material for Python is heavilly inspired from two wonde
 
 ---
 
-**License Declaration** : Following the lead from the inspirations for this material, and the *spirit* of Python education and development, all modules of this work are licensed under the Creative Commons Attribution 3.0 Unported License.
-
-To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/.
+**License Declaration** : Following the lead from the inspirations for this material, and the *spirit* of Python education and development, all modules of this work are licensed under the [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
