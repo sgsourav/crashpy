@@ -4,7 +4,7 @@
 
 This is a crash course in Python, with Jupyter Notebook as the User Interface (IDE), prepared by [Sourav Sen Gupta](http://www.souravsengupta.com/).
 
-Python is a fun language to learn, and really easy to pick up even if you are new to programming. In fact, quite often, Python is easier to pick up if you do not have any programming experience whatsoever. Python is a high level programming language, targeted at students and professionals from diverse backgrounds.
+Python is a fun language to learn, and really easy to pick up even if you are new to programming. In fact, quite often, Python is easier to pick up if you do not have any programming experience whatsoever. Python is a high level language for programming, targeted at students and professionals from diverse backgrounds. It offers an amazing array of [Useful Libraries](https://wiki.python.org/moin/UsefulModules).
 
 ---
 
@@ -25,7 +25,7 @@ To get the most out of this crash course, you'll need to download and use the Ju
 > Package Manager : MiniConda (https://conda.io/miniconda.html)  
 > User Interface (IDE) : Jupyter Notebook (install using Conda)
 
-In case installing the above three components individually is too difficult or confusing for you, you may also download and install the full Anaconda (https://www.anaconda.com/) package for Python 3.7. It's a little too heavy, but more comprehensive.
+In case installing the above three components individually is too difficult or confusing for you, you may also download and install the full Anaconda (https://www.anaconda.com/) package for Python 3.7. It's a little too heavy, but comprehensive.
 
 ---
 
