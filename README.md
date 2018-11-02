@@ -2,7 +2,7 @@
 
 **Welcome to the World of Python!**
 
-This is a crash course in Python, with Jupyter Notebook as the User Interface (IDE). I hope you'll like the experience.
+This is a crash course in Python, with Jupyter Notebook as the User Interface (IDE), prepared by [Sourav Sen Gupta](http://www.souravsengupta.com/).
 
 Python is a fun language to learn, and really easy to pick up even if you are new to programming. In fact, quite often, Python is easier to pick up if you do not have any programming experience whatsoever. Python is a high level programming language, targeted at students and professionals from diverse backgrounds.
 
@@ -19,13 +19,13 @@ Python has two flavors -- Python 2 and Python 3. This set of examples are in Pyt
 
 ---
 
-To get the most out of this crash course, you'll need to download and use the Jupyter Notebooks for individual Modules, posted in this repository. Before you do that, prepare your computer by installing the following.
+To get the most out of this crash course, you'll need to download and use the Jupyter Notebooks for individual Modules posted in this repository (or `git clone` the repository). Before you do that, prepare your computer by installing the following.
 
 > Core Engine : Python 3.7 (https://www.python.org/)    
 > Package Manager : MiniConda (https://conda.io/miniconda.html)  
 > User Interface (IDE) : Jupyter Notebook (install using Conda)
 
-In case installing the above three is too difficult or confusing for you, you may also download and install the full Anaconda (https://www.anaconda.com/) package for Python 3.7.
+In case installing the above three components individually is too difficult or confusing for you, you may also download and install the full Anaconda (https://www.anaconda.com/) package for Python 3.7. It's a little too heavy, but more comprehensive.
 
 ---
 
