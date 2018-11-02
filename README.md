@@ -4,7 +4,7 @@
 
 This is a crash course in Python, with Jupyter Notebook as the User Interface (IDE), prepared by [Sourav Sen Gupta](http://www.souravsengupta.com/).
 
-Python is a fun language to learn, and really easy to pick up even if you are new to programming. In fact, quite often, Python is easier to pick up if you do not have any programming experience whatsoever. Python is a high level language for programming, targeted at students and professionals from diverse backgrounds. It offers an amazing array of [Useful Libraries](https://wiki.python.org/moin/UsefulModules).
+Python is a fun language to learn, and really easy to pick up even if you are new to programming. In fact, quite often, Python is easier to pick up if you do not have any programming experience whatsoever. Python is a high level language, targeted at students and professionals from diverse backgrounds. It offers an amazing array of [Useful Libraries](https://wiki.python.org/moin/UsefulModules) too.
 
 ---
 
