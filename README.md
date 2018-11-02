@@ -19,7 +19,7 @@ Python has two flavors -- Python 2 and Python 3. This set of examples are in Pyt
 
 ---
 
-To get the most out of this crash course, you'll need to download and use the Jupyter Notebooks for individual Modules posted in this repository (or `git clone` the repository). Before you do that, prepare your computer by installing the following.
+To get the most out of this crash course, you'll need to download and use the Jupyter Notebooks for individual Modules posted in this repository (or `git clone` the repository). Before that, prepare your computer by installing the following.
 
 > Core Engine : Python 3.7 (https://www.python.org/)    
 > Package Manager : MiniConda (https://conda.io/miniconda.html)  
