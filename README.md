@@ -21,11 +21,11 @@ Python has two flavors -- Python 2 and Python 3. This set of examples are in Pyt
 
 To get the most out of this crash course, you'll need to download and use the Jupyter Notebooks for individual Modules posted in this repository (or `git clone` the repository). Before that, prepare your computer by installing the following.
 
-> Core Engine : Python 3.7 (https://www.python.org/)    
-> Package Manager : MiniConda (https://conda.io/miniconda.html)  
-> User Interface (IDE) : Jupyter Notebook (install using Conda)
+> Platform : Anaconda for Python 3.7 (https://www.anaconda.com/)     
+> Core Engine : Python 3.7 (it will get installed with Anaconda)    
+> User Interface (IDE) : Jupyter Notebook (comes with Anaconda)     
 
-In case installing the above three components individually is too difficult or confusing for you, you may also download and install the full Anaconda (https://www.anaconda.com/) package for Python 3.7. It's a little too heavy, but comprehensive.
+In case installing Anaconda for Python 3.7 is too heavy for you, and you know how to manage conda environments and packages, you may also download and install the MiniConda (https://docs.conda.io/en/latest/miniconda.html) package for Python 3.7. It's lightweight, but you will have to install all required packages individually, on your own.
 
 ---
 
