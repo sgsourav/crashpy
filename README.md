@@ -4,31 +4,31 @@
 
 This is a crash course in Python, with Notebook as the User Interface (IDE), prepared by [Sourav Sen Gupta](http://www.souravsengupta.com/).
 
-Python is a fun language to learn, and really easy to pick up even if you are new to programming. In fact, quite often, Python is easier to pick up if you do not have any programming experience whatsoever. Python is a high level language, targeted at students and professionals from diverse backgrounds. It offers an amazing array of [Useful Libraries](https://wiki.python.org/moin/UsefulModules) too.
+Python is a fun language to learn, and really easy to pick up even if you are new to programming. Quite often, Python is easier to pick up if you do not have any programming experience whatsoever. Python is a high level language, targeted at students and professionals from diverse backgrounds. It offers an amazing array of [Useful Libraries](https://wiki.python.org/moin/UsefulModules).
 
 ---
 
-Python has two flavors -- Python 2 and Python 3. This set of examples are in Python 3, written and executed in the beautifully simple IDE Jupyter Notebook. Note that Jupyter sets up a `localhost:8888` server to render the notebook in your computer's browser. It can render anything thereafter -- should be fun! Once you are familiar with the Jupyter Notebook environment, and the basic Python syntax in [Module 0](Module0_TheNotebook.ipynb), feel free to explore the rest of the Python Modules.
+This set of examples are in Python 3, written and executed in the beautifully simple IDE Jupyter Notebook. Note that Jupyter sets up a `localhost:8888` server to render the notebook in your computer's browser. It can render anything thereafter -- should be fun! Once you are familiar with the Jupyter Notebook environment, and the basic Python syntax in [Module 0](Module0_TheNotebook.ipynb), feel free to explore the rest of the Python Modules.
 
 > [Module 0](Module0_TheNotebook.ipynb) : Python in Jupyter   
 > [Module 1](Module1_DataTypes.ipynb) : Data Types in Python  
 > [Module 2](Module2_DataStructures.ipynb) : Data Structures in Python   
 > [Module 3](Module3_ConditionLoop.ipynb) : Conditions and Loops in Python   
 > [Module 4](Module4_Functions.ipynb) : Functions and Modules in Python   
-> [Module 5](Module5_PythonComputing.ipynb) : Computing with Python
+> [Module 5](Module5_PythonComputing.ipynb) : Computing with Python     
 > [Module 6](Module6_DataAnalysis.ipynb) : Data Analysis with Python
 
 ---
 
-To get the most out of this crash course, you'll need to download and use the Jupyter Notebooks for individual Modules posted in this repository (or `git clone` the repository). Before that, prepare your computer by installing the following.
+To get the most out of this crash course, you'll need to download and use the Notebooks for individual Modules posted in this repository (or `git clone` the repo). Before that, prepare your computer by installing the following.
 
 > Platform : Anaconda for Python 3 (https://www.anaconda.com/)     
 > Core Engine : Python 3 (it will get installed with Anaconda)    
 > User Interface (IDE) : Jupyter Notebook (comes with Anaconda)     
 
-You may also choose [VS Code](https://code.visualstudio.com/) as your IDE, and set it up for Python programming. VS Code will allow you to write and execute both python Scripts (.py files) and python Notebooks (.ipynb files). You will also be able to write more complex (multi-file) programs to run on your own computer.
+You may also choose [Visual Studio Code](https://code.visualstudio.com/) as your IDE, and set it up for Python programming. Visual Studio Code will allow you to write and execute both python Scripts (.py files) and python Notebooks (.ipynb files). You will also be able to write more complex (multi-file) programs to run on your own computer.
 
-In case installing Anaconda for Python 3 is too heavy for you, and you know how to manage conda environments and packages, you may also download and install the MiniConda (https://docs.conda.io/en/latest/miniconda.html) package for Python 3.7. It's lightweight, but you will have to install all required packages individually, on your own.
+In case installing Anaconda for Python 3 is too heavy for you, and you know how to manage conda environments and packages, you may also download and install the MiniConda (https://docs.conda.io/en/latest/miniconda.html) package for Python 3. It's lightweight, but you will have to install all required packages individually, on your own.
 
 ---
 
